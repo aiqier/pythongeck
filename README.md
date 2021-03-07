@@ -1,2 +1,2 @@
 # pythongeck
-底层实验代码
+实用的python代码
